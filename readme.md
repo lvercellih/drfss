@@ -1,6 +1,6 @@
 # drfss (django rest framework static schema)
 
-Una forma simple de usar un archivo "estático" con
+Una forma simple de usar un esquema estático con
 [django-rest-framework](https://github.com/tomchristie/django-rest-framework) y
 [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger)
 
