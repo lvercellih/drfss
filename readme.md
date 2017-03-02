@@ -40,5 +40,6 @@ class SwaggerSchemaView(APIView):
 - Colocar en la variable `schema` un `dict` conteniendo el schema `openapi` para que sea devuelto en json
 
 > Ver el ejemplo completo en el archivo [drfss/api/rest/views.py](drfss/api/rest/views.py)
+
 > En el ejemplo se está usando el api de instagram, obtenido de http://editor.swagger.io/
 
